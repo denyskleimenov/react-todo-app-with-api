@@ -1,6 +1,6 @@
 # React Todo App with API
 
-- [DEMO LINK](https://DenysKleimenov.github.io/react_todo-app-with-api/)
+- [DEMO LINK](https://denyskleimenov.github.io/react_todo-app-with-api/)
 
 ## Features implemented
 
